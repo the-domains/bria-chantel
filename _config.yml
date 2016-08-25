@@ -1,4 +1,17 @@
-title: Bria Chantel
+typography_spectrum: 0.0483871
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.666905
+  brandColors:
+    - '#FFFFFF'
+    - '#E1E0E5'
+    - '#CECDD2'
+    - '#F2F2F3'
+    - '#F432AD'
+  rhythmicContrast: 0.6156027
+layout_spectrum: 0
+name: Bria Chantel
 collections:
   - index:
       path: /
@@ -11,17 +24,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.666905
-  brandColors:
-    - '#FFFFFF'
-    - '#E1E0E5'
-    - '#CECDD2'
-    - '#F2F2F3'
-    - '#F432AD'
-  rhythmicContrast: 0.6156027
-typography_spectrum: 0.0483871
-layout_spectrum: 0
-name: Bria Chantel
+title: Bria Chantel
+description: Confessions of a Shopaholic
