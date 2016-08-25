@@ -1,15 +1,15 @@
-typography_spectrum: 0.41922996123321354
+layout_spectrum: 0.12464388785883784
+typography_spectrum: 0.4097848739475012
 color:
-  brandStrength: 0.6772037358023226
-  lightness: 0.037056235363706946
-  saturation: 0.1678832268808037
-  rhythmicContrast: 0.8360724770464003
+  brandStrength: 0.2735798757057637
+  lightness: 0.666905025485903
+  saturation: 0.2937015586066991
+  rhythmicContrast: 0.6156026616226882
   brandColors:
     - '#A7304F'
     - '#F46D8D'
     - '#F39EB5'
     - '#081028'
     - '#F0CEB7'
-layout_spectrum: 0.5130049218423665
 name: Bria Chantel
 title: Bria Chantel
