@@ -1,15 +1,27 @@
-layout_spectrum: 0.12464388785883784
-typography_spectrum: 0.4097848739475012
+title: Bria Chantel
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
   brandStrength: 0.2735798757057637
-  lightness: 0.666905025485903
-  saturation: 0.2937015586066991
-  rhythmicContrast: 0.6156026616226882
+  lightness: 0.666905
   brandColors:
     - '#A7304F'
     - '#F46D8D'
     - '#F39EB5'
     - '#081028'
     - '#F0CEB7'
+  rhythmicContrast: 0.6156027
+typography_spectrum: 0.0483871
+layout_spectrum: 1
 name: Bria Chantel
-title: Bria Chantel
